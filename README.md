@@ -1,4 +1,4 @@
-# 📊 Growth-Analysis-Visualization-and-Trend-Modeling
+# 📊 Growth Analysis, Visualization and Trend Modeling
 
 ## 👤 Developed by: Vaibhav Pratap Singh  
 🛠️ Tool Used: Microsoft Power BI
